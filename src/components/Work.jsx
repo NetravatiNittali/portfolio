@@ -96,7 +96,7 @@ const Work = () => {
               {/* Hover Effects */}
               <div className='opacity-0 group-hover:opacity-100'>
                 <span className='text-2xl font-bold text-white tracking-wider'>
-                comming soon....
+                coming soon....
                 </span>
                 <div className='pt-8 text-center'>
                   <a href='/'>
@@ -120,7 +120,7 @@ const Work = () => {
               {/* Hover Effects */}
               <div className='opacity-0 group-hover:opacity-100'>
                 <span className='text-2xl font-bold text-white tracking-wider'>
-                comming soon .....               </span>
+                coming soon .....               </span>
                 <div className='pt-8 text-center'>
                   <a href='/'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -142,7 +142,7 @@ const Work = () => {
               {/* Hover Effects */}
               <div className='opacity-0 group-hover:opacity-100'>
                 <span className='text-2xl font-bold text-white tracking-wider'>
-                  comming soon...
+                  coming soon...
                 </span>
                 <div className='pt-8 text-center'>
                   <a href='/'>
